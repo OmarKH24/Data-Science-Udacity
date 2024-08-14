@@ -7,3 +7,5 @@ This is an updated line
 ### Additional Update:
 
 This is another updated line
+
+### Updated line by refactoring
